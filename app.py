@@ -1,4 +1,7 @@
 # app.py
 
 def login():
-    print("user login success")
+    print("login success")
+
+def payment():
+    print("payment success")
